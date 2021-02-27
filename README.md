@@ -41,3 +41,7 @@
 	- *flex-start, flex-end, center, baseline, stretch *
 - **flex: 1 2 300px;**
   Forma resumida de escrever o flex-grow, flex-shrink, flex-basis.
+  
+  
+  ##LINK
+  https://raillen.github.io/hotel-paraiso-flexbox/
